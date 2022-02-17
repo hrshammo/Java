@@ -1,6 +1,6 @@
 package Angel_Of_Triangle;
 // Jan 26, 2022
-//All Copyright © goes to Hamim Reza Shammo (https://github.com/hrshammo/)
+//All Copyright © goes to Hamim Reza Shammo (https://github.com/hrshammo/) 
 import java.util.Scanner;
 import java.lang.Math;
 public class Main {
@@ -42,6 +42,7 @@ public class Main {
             System.out.println("B");
         } else if (a3 < a2 && a3 < a1) {
             System.out.println("C");
+            
         }
     }
 }
