@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// Find a number prime or not
+	    //All Copyright © goes to Hamim Reza Shammo (https://github.com/hrshammo/) 
         Scanner input = new Scanner(System.in);
         int n, i, v=0 ;
         System.out.println("Enter a positive number ");
